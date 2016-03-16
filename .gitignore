@@ -1,0 +1,9 @@
+# Vim temp file
+*.swp
+
+# Gedit temp file
+*~
+
+# Custom temp file
+*.tmp
+
