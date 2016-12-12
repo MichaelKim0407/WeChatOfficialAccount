@@ -1,0 +1,25 @@
+[TITLE] 一个 Python 写的计算器
+[COVER_PIC] screenshot_20161212_007.png
+[COVER_TXT] 还是挺好使的
+
+这个计算器其实是很久以前因为一些奇奇怪怪的原因写的，这两天翻出来以前的代码，整理了一下，觉得可以放出来供大家赏玩（咦？）。
+
+先说其实 Python 就可以当计算器使。在 Python 文档（docs.python.org）的官方教程里面，有这么一段
+<pic>screenshot_20161212_001.png</pic>
+很方便。但是其实它并没有实现计算器的一个很基本的功能：存储上一次计算结果。要用上一次计算的结果接着算，基本上只能靠↑键，而且是重新算一遍之前已经算过的。
+
+而一个真正的计算器应该是这样的
+<pic>screenshot_20161212_002.png</pic>
+并且也可以把上一次计算的结果写在表达式里
+<pic>screenshot_20161212_003.png</pic>
+也可以把结果存起来以后再用
+<pic>screenshot_20161212_004.png</pic>
+作为计算器，自带各种常数和函数也是必不可少的
+<pic>screenshot_20161212_005.png</pic>
+自定义函数也是可以的哦
+<pic>screenshot_20161212_006.png</pic>
+
+总之就是功能很强大有没有！
+不多说啦，下载、查看源代码请到 GitHub ： https://github.com/MichaelKim0407/PyCalculator （阅读原文也可以打开）
+
+[END_LINK] https://github.com/MichaelKim0407/PyCalculator
