@@ -1,0 +1,136 @@
+[TITLE] 惨不忍睹！程序员老司机玩虐无知青年
+[COVER_PIC]
+[COVER_TXT] 笑话一则
+
+就是标题党，都点进来了，就接着看吧。
+
+---
+
+来美国之后开始水 reddit ，发现还挺有意思的。昨天在 /r/ProgrammerHumor 上看到一个笑话，蜜汁觉得特别搞笑，打算翻译一下，尽量翻译出原文的风格。原文在最下面链接。
+
+---
+
+基础知识：在 IPv4 协议中， 127.0.0.1 是本机的 IP 。
+
+又一个有趣的 IRC 聊天记录
+
+* bitchchecker (~java@euirc-a97f9137.dip.t-dialin.net) 退出 (Ping 超时#)
+* bitchchecker (~java@euirc-61a2169c.dip.t-dialin.net) 加入了聊天 #stopHipHop
+<bitchchecker> 为什么踢我
+<bitchchecker> 不能正常讨轮吗
+<bitchchecker> 回答我！
+<Elch> 我们没踢你
+<Elch> 你 ping 超时了： * bitchchecker (~java@euirc-a97f9137.dip.t-dialin.net) 退出 (Ping 超时#)
+<bitchchecker> 啥 ping 啊哥们儿
+<bitchchecker> 我电脑时间准的
+<bitchchecker> 我还有夏令时呢
+<bitchchecker> 你把我禁了
+<bitchchecker> 承认吧你个臭**
+<HopperHunter|afk> 哈哈
+<HopperHunter|afk> 卧槽你傻啊，夏令时 ^^
+<bitchchecker> 闭嘴，我这儿用夏令时！
+<bitchchecker> 已经两周了
+<bitchchecker> 开电脑的时候 windows 说夏令时生效了。
+<Elch> 你真是个电脑专家
+<bitchchecker> 少废话我要黑了你
+<Elch> 好，我不说了，别来真的啊 ^^
+<bitchchecker> 告诉我你网络号码，你死定了
+<Elch> 呃，是 129.0.0.1
+<Elch> 好像是 127.0.0.1
+<Elch> 没错就是：127.0.0.1 放马过来
+<bitchchecker> 五分钟之后你硬盘就要被删了
+<Elch> 好怕怕
+<bitchchecker> 闭嘴你要挂了
+<bitchchecker> 我有个程序，输入你的 ip 你就死了
+<bitchchecker> 说再见吧
+<Elch> 跟谁？
+<bitchchecker> 你啊
+<bitchchecker> 白白
+<Elch> 我想想你这么厉害的灰客都吓得发抖
+* bitchchecker (~java@euirc-61a2169c.dip.t-dialin.net) 退出 (Ping 超时#)
+
+* bitchchecker (~java@euirc-b5cd558e.dip.t-dialin.net) 加入了聊天 #stopHipHop
+<bitchchecker> 哥们儿你就高兴吧要不是我电脑死机了你就拜拜了
+<Metanot> 哈哈
+<Elch> bitchchecker: 那再来啊。。。我还是那个 IP ：127.0.0.1
+<bitchchecker> 你真是傻
+<bitchchecker> 说白白
+<Metanot> 啊，**
+<bitchchecker> 白白咯 elch
+* bitchchecker (~java@euirc-b5cd558e.dip.t-dialin.net) 退出 (Ping 超时#)
+
+* bitchchecker (~java@euirc-9ff3c180.dip.t-dialin.net) 加入了聊天 #stopHipHop
+<bitchchecker> elch 你个臭**
+<Metanot> bitchchecker 你几岁了？
+<Elch> 咋啦 bitchchecker ？
+<bitchchecker> 你有放火枪
+<bitchchecker> 防火墙
+<Elch> 也许吧，不知道诶
+<bitchchecker> 我 26
+<Metanot> 都 26 了，就这样？
+<Elch> 你咋知道我有防火墙的？
+<Metanot> 啧啧啧这样可不好
+<bitchchecker> 因为你的基佬防火墙把我的关机指令反弹回来了
+<bitchchecker> 是爷们儿就把那破玩意儿关掉
+<Elch> 这么厉害，我都不知道还有这种操作
+<bitchchecker> 让后我病毒就可以把你电脑毁了
+<Metanot> 你是在黑自己吗？
+<Elch> 是啊， bitchchecker 在黑我
+<Metanot> 嘿 bitchchecker 你要是个真黑客你就得自己搞定防火墙。我都能搞定
+<bitchchecker> 是啊我黑那个 elch 不过那家伙有防火墙1
+<Metanot> 你有啥防火墙？
+<bitchchecker> 像个小姑娘
+<Metanot> 防火墙很正常啊，一般黑客都能绕过去。。。你才小姑娘 ^^
+<He> **喝杯二锅头冷静一下别让他们挑信成功了你怎么老是给他们看笑话
+<bitchchecker> 关了防火墙我给你发病毒**
+<Elch> 不要啊
+<Metanot> bitchchecker 干啥他关，应该你关啊
+<bitchchecker> 你怕了吗
+<bitchchecker> 我可不想黑一个躲在防火墙后面的小姑娘
+<bitchchecker> elch 把你那烂防火墙关上！
+<Metanot> 我能说一句么，你知道啥叫黑？他要是关上了防火墙，那就是邀请你了，就不叫黑了
+<bitchchecker> 闭嘴
+<Metanot> 哈哈
+<bitchchecker> 我奶奶上网才用防火墙呢
+<bitchchecker> 你们这些败类都不敢不用防火墙上网
+我根本就没有防火墙，只有一个路由器
+<Elch> bitchchecker ，刚有个同事告诉我怎么关防火墙了。你再试试吧
+<Metanot> bitchhacker 根本就不会黑
+<Black<TdV>> 你说话可真逗 ^^
+<bitchchecker> 逗比
+<Elch> bitchchecker ：我还等着你呢！
+<Metanot> 还要我说嘛，他就不会黑
+<bitchchecker> 来吧你要不要病毒
+<bitchchecker> 告诉我你的 ip 它就把你硬盘删了
+<Metanot> 哈哈你放弃吧我就是黑客，我知道黑客啥样子，你 100.00% 不是黑客 ^^
+<Elch> 127.0.0.1
+<Elch> 简单
+<bitchchecker> 哈哈哈哈哈你个傻叉你要拜拜了
+<bitchchecker> 你文件开始被删了
+<Elch> 妈呀
+<Elch> 我看看
+
+<bitchchecker> 别想自救了，你没戏的，臭**
+<Elch> 这可不好啊
+<bitchchecker> elch 你个本蛋你硬盘 g: 已经被删了
+<Elch> 是啊，我啥也干不了
+<bitchchecker> 20 秒之后 f: 也没了
+我根本没有 F: 和 G: 
+<bitchchecker> tupac 牛逼
+<bitchchecker> elch 你个臭**你 f: 没了 e: 也是
+E: ？天哪，游戏和照片可都在那里
+<bitchchecker> 现在 d: 已经 45% 了你个笨蛋哈哈哈
+<He> meta 咋不说话了
+<Elch> 他说不定已经笑得在地上打滚了
+<Black<TdV>> ^^
+<bitchchecker> 你 d: 没了
+<He> 上啊**
+我的光驱被删了！我要问问他是怎么做到的
+<bitchchecker> elch 哥们儿你可真够蠢的。永远不要在网上告诉别人你的 ip 你懂不懂？
+<bitchchecker> c: 已经 30% 了
+我要不要告诉他他黑的不是我的电脑？
+* bitchchecker (~java@euirc-9ff3c180.dip.t-dialin.net) 退出 (Ping 超时#)
+太晚了。。。我们收到黑客 bitchchecker 的最后一条消息是 20:22 。我们只知道他 Ping 超时了。之后再也没见过他。。。肯定是夏令时搞的鬼。
+
+
+[END_LINK] http://sirkan.iit.bme.hu/~kapolnai/fun/bitchecker.html
